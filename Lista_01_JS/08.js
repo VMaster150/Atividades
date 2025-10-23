@@ -5,7 +5,10 @@ const novasArredondadas = novasNotas.map((notas) => Math.round(notas));
 console.log("as notas são: ", notas);
 console.log("as notas maiores que 6 são:", novasNotas);
 console.log("as notas arredondadas são: ", novasArredondadas);
+<<<<<<< Updated upstream
 
 
 
 asdasdas
+=======
+>>>>>>> Stashed changes
